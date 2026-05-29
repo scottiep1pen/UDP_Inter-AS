@@ -55,7 +55,7 @@ Si trabajas en un IXP, ISP, o tienes experiencia con DDoS amplification en produ
 
 ## Contexto del autor
 
-Operador de red con 30 anos de experiencia en ISPs y 5 anos operando un IXP regional (PIT Chile) con presencia en Chile, Mexico, Argentina y Peru. Este documento surge de ver los mismos ataques UDP repetirse durante tres decadas sin que la industria haya resuelto la condicion estructural que los hace posibles.
+Operador de red con 30 anos de experiencia en ISPs y 1 ano operando un IXP regional (PIT Chile) con presencia en Chile, Mexico, Argentina y Peru. Este documento surge de ver los mismos ataques UDP repetirse durante tres decadas sin que la industria haya resuelto la condicion estructural que los hace posibles.
 
 ## Licencia
 

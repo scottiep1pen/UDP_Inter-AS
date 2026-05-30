@@ -2,7 +2,7 @@
 ## Un Vector de Ataque Estructural en Internet y el Caso para su No-Rutabilidad
 
 **Autor:** RRozasC  
-**Organizacion:** PIT Chile - Internet Exchange Point  
+**Organizacion:** Internet Exchange Point  
 **Version:** v6 - Mayo 2026  
 **Estado:** Documento de posicion tecnica abierto a comentarios
 
